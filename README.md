@@ -1,5 +1,7 @@
 # Prototipacao_IOT_IFSP
-
+Projeto desenvolvido por: Jean C. Galhardi
+                          Julio Cesar Becker M. Pinto
+    
 Projeto de Monitoramento de Produção de Vinhos com ESP32
 Este é um projeto que utiliza o microcontrolador ESP32 e sensores de umidade e temperatura para monitorar a produção de vinhos. Ele permite coletar informações precisas sobre as condições ambientais durante o processo de produção, garantindo que as condições ideais sejam mantidas para obter um vinho de alta qualidade.
 
