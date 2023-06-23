@@ -1,5 +1,5 @@
 # Prototipacao_IOT_IFSP
-Projeto desenvolvido por: Jean C. Galhardi
+Projeto desenvolvido por: Jean C. Galhardi e 
                           Julio Cesar Becker M. Pinto
     
 Projeto de Monitoramento de Produção de Vinhos com ESP32
